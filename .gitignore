@@ -1,0 +1,5 @@
+# Ignore virtual environment and Python build folders
+pyvenv/
+Scripts/
+Lib/
+__pycache__/

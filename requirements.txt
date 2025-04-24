@@ -1,0 +1,7 @@
+Flask==2.3.2
+sqlite3==2.6.0  # Normally included in Python standard library
+joblib==1.3.2
+pandas==2.0.3
+requests==2.31.0  # Required for weatherAPI
+python-dotenv==1.0.0  # Recommended for managing environment variables
+scikit-learn==1.3.0  # Typically required for joblib to work with scikit-learn models
